@@ -16,3 +16,5 @@ El proyecto se va a desarrollar en dos módulos, dentro de un repositorio princi
 **El módulo 2:** [(Bogdan Alin Muresan )](https://github.com/bogdananas/proyectoIV-modulo2.git) Este módulo se encarga del alojamiento web de la aplicación, en el servidor así como la conexión de la aplicación con las bases de datos y el despliegue de la misma.
 
 Hemos elegido llevar a cabo este proyecto, porque se centra en la virtualización de recursos como puede ser el uso de máquinas virtuales para el despliegue de una aplicación para Internet, usando también para ello un framework de alto nivel.
+
+Estamos inscritos en el certamen de proyectos de la UGR organizado por la OSL.
